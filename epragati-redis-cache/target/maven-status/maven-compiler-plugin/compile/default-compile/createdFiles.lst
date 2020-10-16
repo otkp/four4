@@ -1,0 +1,12 @@
+org\epragati\config\RedisConfig.class
+org\epragati\controller\WebController.class
+org\epragati\dto\GateWayResponse.class
+org\epragati\queue\MessageSubscriber.class
+org\epragati\dto\VehicleDetails.class
+org\epragati\redisrepository\RedisRepositoryImpl.class
+org\epragati\dto\VehicleCov.class
+org\epragati\queue\MessagePublisher.class
+org\epragati\dto\Movie.class
+org\epragati\redisrepository\RedisRepository.class
+org\epragati\RedisApp.class
+org\epragati\queue\MessagePublisherImpl.class
